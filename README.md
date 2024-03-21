@@ -71,8 +71,7 @@ npm start
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Sumit_Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitsharma002/)
-[![Github](https://img.shields.io/badge/Sumit_Sharma-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sumit-sharma-02/)
+[![linkedin](https://www.linkedin.com/in/usamah-f-klayr-b0a9581a0/)
 
 ## Show your support
 
